@@ -250,7 +250,7 @@ pipeline {
 - Use the **Blue Ocean** plugin for visualizing pipeline failures.
 
 ---
-# **100 Jenkins Interview Questions and Answers**
+# ** Jenkins Interview Questions and Answers**
 
 ---
 
