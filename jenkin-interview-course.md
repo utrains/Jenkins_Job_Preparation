@@ -179,7 +179,7 @@ pipeline {
         }
     }
 }
-
+```
 ## **7. Jenkins Interview Scenarios**
 
 ### **Common Scenarios**
